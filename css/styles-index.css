@@ -1,0 +1,15 @@
+* {
+    background-color: bisque;
+    font-family: Helvetica, Verdana, sans-serif;
+}
+
+h1 {
+    font-size: 42px;
+    text-align: center;
+    font-weight: bold;
+}
+
+ul {
+    font-size: 18px;
+    font-weight: bold;
+}
