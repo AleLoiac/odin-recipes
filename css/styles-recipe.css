@@ -21,9 +21,17 @@ img {
 }
 
 .home-link {
+    color:rgb(168, 82, 16);
+    display: block;
+    text-align: center;
     font-size: 20px;
+}
+
+.home-link:hover {
+    color: darkgoldenrod;
 }
 
 .center {
     text-align: center;
 }
+
