@@ -4,7 +4,7 @@
 }
 
 body {
-    padding: 0 20vw 8vh;
+    padding: 0 10vw 8vh;
 }
 
 h1, h2 {
@@ -12,9 +12,11 @@ h1, h2 {
     font-weight: bold;
 }
 
+.div-img {
+    text-align: center;
+}
+
 img {
-    display: block;
-    margin: 0 auto;
     border-radius: 10px;
 }
 
